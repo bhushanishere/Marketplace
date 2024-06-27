@@ -1,0 +1,18 @@
+//
+//  SliderData.json
+//  Marketplace
+//
+//  Created by Bhushan Borse DXC on 25/04/24.
+//
+
+import Foundation
+
+
+[
+    {
+        "title": "Launch your Classifieds Marketplace",
+        "description": "gold",
+        "icon": "logo.xbox"
+    },
+    
+]
